@@ -8,12 +8,12 @@ namespace LabSheet3_Week4
 {
     public class Car
     {
-        private string Make;
+        private string make;
 
         public string Make
         {
-            //get { return this.Make; }
-            //set { this.Make = Value; }
+            get { return this.Make; }
+            set { this.Make = value }
         }
 
     }
